@@ -1,0 +1,13 @@
+Demo videos generated during real-time system operation are not included in this repository.
+
+Reason:
+- Videos may contain real environments and human subjects
+- Ethical, privacy and academic considerations apply
+
+For academic evaluation or demonstration purposes,
+sample videos can be shared upon request.
+
+This repository focuses on:
+- System architecture
+- Computer vision pipeline
+- Deep learning based perception and control logic
