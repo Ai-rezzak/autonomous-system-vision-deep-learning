@@ -109,13 +109,18 @@ This project implements an **autonomous vision tracking system** that uses **YOL
 ## 🎬 Demo
 
 ### Detection in Action
-![Detection Demo](docs/images/detection_demo.gif)
+<p float="left">
+  <img src="docs/images/6.png" width="400" />
+  <img src="docs/images/7.jpg" width="400" />
+  <img src="docs/images/8.jpg" width="400" />
+</p>
 *Real-time human detection and tracking*
 
-### Scanning Mode
-![Scanning Mode](docs/images/scanning_mode.gif)
-*Automatic scanning when target is lost*
-
+### Robot Appearance 
+<p float="left">
+  <img src="docs/images/IMG-20240612-WA0010.jpg" width="400" />
+  <img src="docs/images/IMG-20240612-WA0014.jpg" width="400" />
+</p>
 ---
 
 ## 🚀 Installation
